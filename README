@@ -1,3 +1,3 @@
 Django-tiny-messenger is an instant messenging system developed on Django 1.3 that resembles Facebook's counterpart in functionality.
 
-
+Dependancies: Python2.7+, Django 1.3, Dajaxice 2.0, Dajax 2.0
